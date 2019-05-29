@@ -1802,6 +1802,18 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rrQ1D2yB7C {
+  background: #ffffff;
+}
+.cid-rrQ1D2yB7C .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rrQ1D2yB7C .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rrLihaQyGX {
   padding-top: 90px;
   padding-bottom: 90px;
