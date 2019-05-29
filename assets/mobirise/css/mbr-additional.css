@@ -1999,6 +1999,34 @@ body {
 .cid-rrLjjnoY2m .head-item {
   text-align: center;
 }
+.cid-rrQn7von1H {
+  background-image: url("../../../assets/images/-21-1600x900.png");
+}
+.cid-rrQn7von1H .form-control,
+.cid-rrQn7von1H .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+}
+.cid-rrQn7von1H .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-rrQn7von1H textarea.form-control {
+  min-height: 188px;
+}
+.cid-rrQn7von1H .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rrQn7von1H .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-rrQn7von1H H1 {
+  text-align: right;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
