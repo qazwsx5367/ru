@@ -1999,6 +1999,54 @@ body {
 .cid-rrLjjnoY2m .head-item {
   text-align: center;
 }
+.cid-rrWyoyKDUB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1735x1920.jpg");
+}
+.cid-rrWyoyKDUB h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-rrWyoyKDUB p {
+  color: #ffffff;
+}
+.cid-rrWyoyKDUB .card {
+  margin-bottom: 2rem;
+}
+.cid-rrWyoyKDUB .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-rrWyoyKDUB .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-rrWyoyKDUB .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rrWyoyKDUB .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rrWyoyKDUB .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rrWyoyKDUB .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rrWyoyKDUB .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rrWyoyKDUB .card-title,
+.cid-rrWyoyKDUB .card-img {
+  text-align: center;
+}
 .cid-rrQn7von1H {
   background-image: url("../../../assets/images/-21-1600x900.png");
 }
