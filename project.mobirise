@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Well, iet's play? and you come with us-clone",
-    "currentPage": " page1.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1233,7 +1233,7 @@
     " page1.html": {
       "settings": {
         "main": true,
-        "title": "Гланая",
+        "title": "Главная",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
