@@ -595,7 +595,7 @@
         }
       ]
     },
-    " page.html": {
+    " page1.html": {
       "settings": {
         "main": true,
         "title": "Главная",
@@ -1782,7 +1782,7 @@
         }
       ]
     },
-    "page.html": {
+    "page2.html": {
       "settings": {
         "title": "Новасть",
         "meta_descr": "",
